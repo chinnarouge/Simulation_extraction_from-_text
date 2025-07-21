@@ -32,7 +32,10 @@ This project demonstrates automated extraction of business blocks (entities), at
 
 ## Usage
 
-Run the script: Task_3.py
+Run the script:
+ ```
+    python task_3.py
+ ```
 
 This will:
 - Generate and extract from a sample business report (text), a PNG image (production capacity), and a dummy audio file.
