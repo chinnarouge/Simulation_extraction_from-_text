@@ -1,0 +1,6 @@
+openai-whisper
+pydantic 
+Pillow
+python-dotenv 
+google-generativeai 
+pytesseract 
