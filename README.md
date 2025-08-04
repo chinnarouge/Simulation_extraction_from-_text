@@ -7,7 +7,7 @@ This project demonstrates automated extraction of business blocks (entities), at
 - Extracts structured information from text files, images (via OCR), and audio (via transcription).
 - Uses Google Gemini's function calling to identify entities, attributes, and relationships in unstructured data.
 - Outputs the structured results as a readable knowledge graph in the console.
-- Example business scenario based on STK Produktion GmbH.
+- Example business scenario
 
 ## Requirements
 
