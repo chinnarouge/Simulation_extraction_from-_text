@@ -1,4 +1,4 @@
-# STK Produktion GmbH Knowledge Extraction
+# Knowledge Extraction from text, images and audio
 
 This project demonstrates automated extraction of business blocks (entities), attributes, and relationships from text, images, and audio, using Gemini (Google Generative AI), Whisper (OpenAI), and Tesseract OCR. The goal is to produce a structured "knowledge graph" for business and industrial contexts.
 
